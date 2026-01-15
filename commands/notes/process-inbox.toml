@@ -1,0 +1,2 @@
+description = "Process inbox.md: Archive notes, keep todos, and log changes."
+prompt = "Activate the process-inbox skill and start the organization workflow."
